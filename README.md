@@ -1,6 +1,6 @@
 ## Hi there, I'm Kaleb. 👋
 
-Currently a Systems Administrator, working on transitioning to Cloud fully. I love basketball, climbing, animals, and tech!
+Currently a Systems Administrator, working on transitioning to Cloud/DevOps fully. I love basketball, climbing, animals, and tech!
 
 - Check out my projects pinned below.
 
