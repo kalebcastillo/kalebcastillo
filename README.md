@@ -1,10 +1,21 @@
 ## Hi there, I'm Kaleb. 👋
 
-Currently a Systems Administrator, working on transitioning to Cloud/DevOps fully. I love basketball, climbing, animals, and tech!
+Currently a Systems Administrator, working on transitioning to Cloud-Native/DevOps. 
 
-- Check out my projects pinned below.
+Some of my main interests: 
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/kaleb-castillo/).
+🏀 Basketball (Thunder Up!)
 
-- Check out my Portfolio/Blog site as well: [Link](https://kalebcastillo.com/)
+🧗🏼‍♂️ Climbing
+
+🐈 Animals
+
+---
+
+🚀 Check out my Cloud Portfolio site where I post techincal blogs for my projects: [Link](https://kalebcastillo.com/)
+
+🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/kaleb-castillo/)
+
+💻 Check out my projects pinned below
+
 
