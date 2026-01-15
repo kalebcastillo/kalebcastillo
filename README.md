@@ -14,9 +14,7 @@ Check out [Learn to Cloud!](https://learntocloud.guide/) ☁️
 
 ### Skills / Tools
 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a89331eb-cef2-42ab-9e1a-0af6b696f32f" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/670b024c-89ed-46fb-aa6e-0d57de3237e5" />
- <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> 
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0528a133-4707-45ab-a3d5-999816d71172" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ac2b57e8-306c-411d-8e17-f526a724bfb6" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7e475f72-f8eb-4efb-86b3-9a0273e98e7e" /> 
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a89331eb-cef2-42ab-9e1a-0af6b696f32f" /> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/670b024c-89ed-46fb-aa6e-0d57de3237e5" /> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0528a133-4707-45ab-a3d5-999816d71172" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ac2b57e8-306c-411d-8e17-f526a724bfb6" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7e475f72-f8eb-4efb-86b3-9a0273e98e7e" /> 
 
 
 
