@@ -8,9 +8,9 @@ Connect with me:
 
 ---
 
-🚀 Check out my Cloud Portfolio site where I post techincal blogs for my projects: [Link](https://kalebcastillo.com/)
+🚀 Check out my Cloud Portfolio site where I post techincal blogs for my projects: [kalebcastillo.com](https://kalebcastillo.com/) 🚀
 
-Check out [Learn to Cloud!](https://learntocloud.guide/) ☁️
+ ☁️ Check out [Learn to Cloud!](https://learntocloud.guide/) ☁️
 
 ---
 
@@ -30,7 +30,7 @@ Check out [Learn to Cloud!](https://learntocloud.guide/) ☁️
 
 
 
-### Projects ⬇️
+### ⬇️ Projects ⬇️
 | | |
 | ----------- | ----------- |
 | [Cloud Portfolio](https://github.com/kalebcastillo/cloud-portfolio) | A full-stack serverless Cloud portfolio using Terraform, Astro, Lambda, and DynamoDB; CI/CD pipeline across test and production environments with GitHub Actions |
