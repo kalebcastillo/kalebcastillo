@@ -1,6 +1,8 @@
 ## Hi there, I'm Kaleb. 👋
 
-Currently a Systems Administrator, working on transitioning to Cloud-Native/DevOps. 
+In my free time, I serve as a Junior DevOps Engineer at Learn to Cloud, helping maintain the CI/CD and cloud infrastructure + keep the courseware up to date.
+ 
+☁️ Check out [Learn to Cloud!](https://learntocloud.guide/) ☁️
 
 Connect with me:
 
@@ -9,8 +11,6 @@ Connect with me:
 ---
 
 🚀 Check out my Cloud Portfolio site where I post techincal blogs for my projects: [kalebcastillo.com](https://kalebcastillo.com/) 🚀
-
- ☁️ Check out [Learn to Cloud!](https://learntocloud.guide/) ☁️
 
 ---
 
