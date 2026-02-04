@@ -1,6 +1,6 @@
 ## Hi there, I'm Kaleb. 👋
 
-In my free time, I serve as a Junior DevOps Engineer at Learn to Cloud, helping maintain the CI/CD and cloud infrastructure + keep the courseware up to date.
+In my free time, I serve as a Junior DevOps Engineer at Learn to Cloud, helping maintain the CI/CD, cloud infrastructure, and labs + keep the courseware up to date.
  
 ☁️ Check out [Learn to Cloud!](https://learntocloud.guide/) ☁️
 
