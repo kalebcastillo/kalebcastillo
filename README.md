@@ -36,7 +36,7 @@ Featured Blog: [Learning "How to Cloud": Beyond the Tech](https://kalebcastillo.
 | ----------- | ----------- |
 | [Programming Phase Capstone App](https://github.com/learntocloud/journal-starter) | Contributed to a FastAPI + PostgreSQL application written in Python; implemented deployment enhancements with Docker and collaborated on codebase improvements. |
 | [AWS Networking Lab](https://github.com/learntocloud/networking-lab) | Implemented an AWS Networking Lab. Learners deploy then fix a pre-configured, intentionally broken network to AWS via Terraform. |
-| [AWS DevOps Lab](https://github.com/learntocloud/devops-lab) | Implemented an AWS DevOps Lab. Learners resolve various DevOps misconfigurations across Docker, GitHub Actions, Terraform, and K8s, then deploy the corrected infrastructure. |
+| [AWS DevOps Lab](https://github.com/learntocloud/devops-lab/tree/feat/aws-lab) | Implemented an AWS DevOps Lab. Learners resolve various DevOps misconfigurations across Docker, GitHub Actions, Terraform, and K8s, then deploy the corrected infrastructure. |
 | [AI Topics and Mini-Labs](https://learntocloud.guide/phase/4/cloud-ai-services) | Incorporated AI topics and mini labs surrounding Azure Foundry, MCP, agentic workflows, and GitHub Copilot into learning material. |
 
 
